@@ -82,4 +82,4 @@ cat clue.txt   # Read the next clue
 - Remember that the crime happened in an empty room
 - Keep track of which suspects and weapons you've crossed off
 
-Happy investigating, Detective! The town is counting on you to solve this mystery!
+Happy investigating, Detective! The town is counting on you to solve this mystery!s
