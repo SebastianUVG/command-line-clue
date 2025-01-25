@@ -29,3 +29,7 @@ En playground encontre la escena del crimen, donde todo sucedio, ahora solo falt
 
 #Notas de School
 No he encontrado ninguna pista en School
+
+#Notas de Shops
+No he encontrado ninguna pista en Shops
+
