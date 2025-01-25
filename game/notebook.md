@@ -26,3 +26,6 @@ Una vez en el jardin habia una pista que revisara el estudio.
 En el parque encontre otra pista que decia, que un residente local menciono que habia visto un shadowy entrando al playground.
 en el parke se encuentra Garden Shears(esto no deberia de estar en el jardin) y el InnKeeper.
 En playground encontre la escena del crimen, donde todo sucedio, ahora solo falta encontrar quien fue y confirmar bien el arma.
+
+#Notas de School
+No he encontrado ninguna pista en School
