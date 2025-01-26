@@ -1,14 +1,15 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Doctor
-- [ ] The Journalist
-- [ ] The Librarian
-
+- [x] The Doctor (no encontrado)
+- [x] The Journalist (no encontrado)
+- [x] The Librarian (No encontrado)
+- [o] The Innkeeper (encontrado cerca de la escena del crimen)
 ## Weapons
-- [ ] Iron Poker
-- [ ] Garden Shears (principal arma)
-- [ ] Antique Compass
+- [x] Iron Poker
+- [o] Garden Shears (principal arma)
+- [x] Antique Compass
+- [x] Bronze trophy
 
 ## Notes
 *Use this space to record your findings and deductions...*
@@ -35,3 +36,8 @@ No he encontrado ninguna pista en Shops
 
 #Notas de Town Hall
 No he encontrado ninguna pista en Town Hall
+
+#Conclusion final
+Despues de buscar mas pistas, llegue a la conclusion de que el culpable de todo esto fue el Innkeeper con las Garden Shears en el playground.
+LLegue a esta conclusion debido que el Innkeeper estaba cerca de la escena del crimen
+Ademas las Garden Shears deberian de estar en un jardin no en un parque.
