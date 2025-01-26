@@ -33,3 +33,5 @@ No he encontrado ninguna pista en School
 #Notas de Shops
 No he encontrado ninguna pista en Shops
 
+#Notas de Town Hall
+No he encontrado ninguna pista en Town Hall
